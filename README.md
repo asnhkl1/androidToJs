@@ -1,0 +1,2 @@
+# androidToJs
+解决Android通过webview加载本地大长图片，不能左右铺满的问题
